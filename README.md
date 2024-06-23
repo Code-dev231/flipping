@@ -1,3 +1,5 @@
+Hak Cipta © 2024
+
 Informasi Pembuatan:
 
 create: [dausofc]
